@@ -1,0 +1,25 @@
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid;
+  height: 50px;
+  width: 50px;
+}
+
+button {
+  margin: 50px auto;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+}
+
+.Orange {
+  background-color: orange;
+}
